@@ -5,3 +5,5 @@ rtmp://localhost/live
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnE1CbCX4-v6eFrscDcq8HCQoUvumBjvPFR9g7jwQJTV)/dm/3/x827j2y/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
 https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_R3JNZ3Lvlqp0McYZiT02VXv0gWKI1CTUUtOSN8SWuw)/dm/3/x7wzxiw/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg",bolivia tv
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
