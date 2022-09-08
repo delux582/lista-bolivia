@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c9/0b/de/c90bdeec-5338-f71a-c89f-83a83b52373f/source/256x256bb.jpg",tigo sport
 rtmp://localhost/live
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",red uno
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnwPBvEj5TSNrnw1rXVZlmSoxu0ado-QWRFBpZj97-En)/dm/3/x827j2y/d/live-2.m3u8 
+https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnE1CbCX4-v6eFrscDcq8HCQoUvumBjvPFR9g7jwQJTV)/dm/3/x827j2y/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
-https://stream-04.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-mA2S069nYBhOD1fAELZ8-mhVEDYKDrfFmFfM90g6mO)/dm/3/x7wzxiw/s/live-2.m3u8
+https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_R3JNZ3Lvlqp0McYZiT02VXv0gWKI1CTUUtOSN8SWuw)/dm/3/x7wzxiw/s/live-0.m3u8
