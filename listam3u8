@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c9/0b/de/c90bdeec-5338-f71a-c89f-83a83b52373f/source/256x256bb.jpg",tigo sport
-rtmp://localhost/live
+rtmp://192.168.0.11/live
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",red uno
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnE1CbCX4-v6eFrscDcq8HCQoUvumBjvPFR9g7jwQJTV)/dm/3/x827j2y/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
