@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-S3r_evuw3io/XD_nFCu9smI/AAAAAAAAkcQ/eMuYHidSydEnKR-bdF3fEAaswFONJ9qugCK4BGAYYCw/s1600/fixture_bolivia.jpg",eventos-futbol
 https://c1cd-177-222-97-87.ngrok.io/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",red uno
-https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjyRShB0LNxSXX6eVZohnegG2Rii-3gibMlKjcsj3SJy)/dm/3/x827j2y/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLupP9oheu68IiH4qO94o4rCX2pmqquU18m0214UzVoH8)/dm/3/x827j2y/d/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
-https://stream-02.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4tTT2ddt-rZCz6GekpEo1n5oikEiN0kKogjvCPqAI6k)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNSw8VrYVPcjUT6WFp9DUNg9vmBDc_zpUYicRzH_I3xM)/dm/3/x7y922d/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg",bolivia tv
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w2122289277.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/15/d2/3a15d2f2c6142f9f49ef7f4aa068f2ba.jpg",ATB
-https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4t8QXw4IzMNK0JX41FULs_H1lMFTfeDy76u9KkII7Ol)/dm/3/x89sfvo/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7Ua_SsLhJZ6alhFLL2npXcUNUpdvZm_mZ19XVVZloj-)/dm/3/x89sfvo/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",bolivison
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
