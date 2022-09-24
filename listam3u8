@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-S3r_evuw3io/XD_nFCu9smI/AAAAAAAAkcQ/eMuYHidSydEnKR-bdF3fEAaswFONJ9qugCK4BGAYYCw/s1600/fixture_bolivia.jpg",eventos-futbol
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://3.bp.blogspot.com/-S3r_evuw3io/XD_nFCu9smI/AAAAAAAAkcQ/eMuYHidSydEnKR-bdF3fEAaswFONJ9qugCK4BGAYYCw/s1600/fixture_bolivia.jpg",eventos-futbol
 https://c1cd-177-222-97-87.ngrok.io/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",red uno
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgcyM5RNZo73zPPcQHMxhwV7m0_WWmp09LzyhemIujh9)/dm/3/x827j2y/d/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8d_T1DV0qkZvmCSUru-R596__su_YRnWSC0oEZProqM)/dm/3/x7wzxiw/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg",bolivia tv
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg",red uno
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiN74_sJIfy4_h7tVvqqTfJlqkBqCrqQ6C1aRNhmWckt)/dm/3/x827j2y/d/live-2.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://cladera.org/foda/images/subcat-878.jpg",unitel
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbiCsWqdkrdQUB_JnDe9OvHcfWWlldZJRK7xfL3w0Ui_)/dm/3/x7vsezg/d/live-3.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg",bolivia tv
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w2122289277.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/15/d2/3a15d2f2c6142f9f49ef7f4aa068f2ba.jpg",ATB
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7tJ6ZoEEBz7GkwQceE_g4VlPSuchmxzYzYnp2PGcaph)/dm/3/x89sfvo/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",bolivison
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.pinimg.com/originals/3a/15/d2/3a15d2f2c6142f9f49ef7f4aa068f2ba.jpg",ATB
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v0tk2bNoJcHJlbbETlUo8p5Q3MQJPrpW_RbqVj6rCuOm)/dm/3/x89sfvo/s/live-3.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",bolivison
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
